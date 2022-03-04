@@ -1,0 +1,11 @@
+.sidebar{
+    flex:5;
+    background-color: brown;
+}
+
+.sidebarImg{
+    width:100%;
+    margin-top: 80px;
+    object-fit: contain;
+}
+
